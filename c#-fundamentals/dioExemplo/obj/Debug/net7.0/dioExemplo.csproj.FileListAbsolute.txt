@@ -1,0 +1,14 @@
+d:\dev\c#-fundamentals\dioExemplo\bin\Debug\net7.0\dioExemplo.exe
+d:\dev\c#-fundamentals\dioExemplo\bin\Debug\net7.0\dioExemplo.deps.json
+d:\dev\c#-fundamentals\dioExemplo\bin\Debug\net7.0\dioExemplo.runtimeconfig.json
+d:\dev\c#-fundamentals\dioExemplo\bin\Debug\net7.0\dioExemplo.dll
+d:\dev\c#-fundamentals\dioExemplo\bin\Debug\net7.0\dioExemplo.pdb
+d:\dev\c#-fundamentals\dioExemplo\obj\Debug\net7.0\dioExemplo.GeneratedMSBuildEditorConfig.editorconfig
+d:\dev\c#-fundamentals\dioExemplo\obj\Debug\net7.0\dioExemplo.AssemblyInfoInputs.cache
+d:\dev\c#-fundamentals\dioExemplo\obj\Debug\net7.0\dioExemplo.AssemblyInfo.cs
+d:\dev\c#-fundamentals\dioExemplo\obj\Debug\net7.0\dioExemplo.csproj.CoreCompileInputs.cache
+d:\dev\c#-fundamentals\dioExemplo\obj\Debug\net7.0\dioExemplo.dll
+d:\dev\c#-fundamentals\dioExemplo\obj\Debug\net7.0\refint\dioExemplo.dll
+d:\dev\c#-fundamentals\dioExemplo\obj\Debug\net7.0\dioExemplo.pdb
+d:\dev\c#-fundamentals\dioExemplo\obj\Debug\net7.0\dioExemplo.genruntimeconfig.cache
+d:\dev\c#-fundamentals\dioExemplo\obj\Debug\net7.0\ref\dioExemplo.dll
