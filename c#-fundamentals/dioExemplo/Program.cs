@@ -8,8 +8,21 @@ class Program
 
 
 
-        int inteiro = 5;
-        string teste = inteiro.ToString();
+        string a = "15";
+        int b = 5;
+
+
+        // Caso o TryParse não seja bem sucedido permanece o valor original/nulo caso a variavel a esteja sendo inicializada
+        int.TryParse(a, out b);
+        int.TryParse(a, out int c); 
+
+        Console.WriteLine(b);
+        Console.WriteLine(c);
+
+
+
+        // int inteiro = 5;
+        // string teste = inteiro.ToString();
 
 
         // int a = Convert.ToInt32("5"); // convert aceita nulos
