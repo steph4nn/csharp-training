@@ -6,10 +6,21 @@ class Program
     static void Main(string[] args)
     {
 
-        DateTime dataAtual= DateTime.Now.AddDays(5);
-        Console.WriteLine(dataAtual.ToString("MM/dd/yy"));
-        Console.WriteLine(dataAtual.ToString("dd/MM/yyyy"));
-        Console.WriteLine(dataAtual.ToString("HH:mm"));
+
+        int a = Convert.ToInt32("5"); // convert aceita nulos
+        int b = int.Parse("7"); //parse não aceita nulos
+        
+        Console.WriteLine(a);
+        Console.WriteLine(b);
+
+
+
+
+
+        // DateTime dataAtual= DateTime.Now.AddDays(5);
+        // Console.WriteLine(dataAtual.ToString("MM/dd/yy"));
+        // Console.WriteLine(dataAtual.ToString("dd/MM/yyyy"));
+        // Console.WriteLine(dataAtual.ToString("HH:mm"));
 
 
 
