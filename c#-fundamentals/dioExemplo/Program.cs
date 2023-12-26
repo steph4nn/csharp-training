@@ -7,11 +7,16 @@ class Program
     {
 
 
-        int a = Convert.ToInt32("5"); // convert aceita nulos
-        int b = int.Parse("7"); //parse não aceita nulos
+
+        int inteiro = 5;
+        string teste = inteiro.ToString();
+
+
+        // int a = Convert.ToInt32("5"); // convert aceita nulos
+        // int b = int.Parse("7"); //parse não aceita nulos
         
-        Console.WriteLine(a);
-        Console.WriteLine(b);
+        // Console.WriteLine(a);
+        // Console.WriteLine(b);
 
 
 
