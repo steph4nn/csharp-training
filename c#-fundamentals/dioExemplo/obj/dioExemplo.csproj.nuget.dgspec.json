@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dev\\c#-fundamentals\\dioExemplo\\dioExemplo.csproj": {}
+    "D:\\dev\\csharp-training\\c#-fundamentals\\dioExemplo\\dioExemplo.csproj": {}
   },
   "projects": {
-    "D:\\dev\\c#-fundamentals\\dioExemplo\\dioExemplo.csproj": {
+    "D:\\dev\\csharp-training\\c#-fundamentals\\dioExemplo\\dioExemplo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dev\\c#-fundamentals\\dioExemplo\\dioExemplo.csproj",
+        "projectUniqueName": "D:\\dev\\csharp-training\\c#-fundamentals\\dioExemplo\\dioExemplo.csproj",
         "projectName": "dioExemplo",
-        "projectPath": "D:\\dev\\c#-fundamentals\\dioExemplo\\dioExemplo.csproj",
+        "projectPath": "D:\\dev\\csharp-training\\c#-fundamentals\\dioExemplo\\dioExemplo.csproj",
         "packagesPath": "C:\\Users\\lauro\\.nuget\\packages\\",
-        "outputPath": "D:\\dev\\c#-fundamentals\\dioExemplo\\obj\\",
+        "outputPath": "D:\\dev\\csharp-training\\c#-fundamentals\\dioExemplo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lauro\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -12,3 +12,17 @@ d:\dev\c#-fundamentals\dioExemplo\obj\Debug\net7.0\refint\dioExemplo.dll
 d:\dev\c#-fundamentals\dioExemplo\obj\Debug\net7.0\dioExemplo.pdb
 d:\dev\c#-fundamentals\dioExemplo\obj\Debug\net7.0\dioExemplo.genruntimeconfig.cache
 d:\dev\c#-fundamentals\dioExemplo\obj\Debug\net7.0\ref\dioExemplo.dll
+D:\dev\csharp-training\c#-fundamentals\dioExemplo\bin\Debug\net7.0\dioExemplo.exe
+D:\dev\csharp-training\c#-fundamentals\dioExemplo\bin\Debug\net7.0\dioExemplo.deps.json
+D:\dev\csharp-training\c#-fundamentals\dioExemplo\bin\Debug\net7.0\dioExemplo.runtimeconfig.json
+D:\dev\csharp-training\c#-fundamentals\dioExemplo\bin\Debug\net7.0\dioExemplo.dll
+D:\dev\csharp-training\c#-fundamentals\dioExemplo\bin\Debug\net7.0\dioExemplo.pdb
+D:\dev\csharp-training\c#-fundamentals\dioExemplo\obj\Debug\net7.0\dioExemplo.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\csharp-training\c#-fundamentals\dioExemplo\obj\Debug\net7.0\dioExemplo.AssemblyInfoInputs.cache
+D:\dev\csharp-training\c#-fundamentals\dioExemplo\obj\Debug\net7.0\dioExemplo.AssemblyInfo.cs
+D:\dev\csharp-training\c#-fundamentals\dioExemplo\obj\Debug\net7.0\dioExemplo.csproj.CoreCompileInputs.cache
+D:\dev\csharp-training\c#-fundamentals\dioExemplo\obj\Debug\net7.0\dioExemplo.dll
+D:\dev\csharp-training\c#-fundamentals\dioExemplo\obj\Debug\net7.0\refint\dioExemplo.dll
+D:\dev\csharp-training\c#-fundamentals\dioExemplo\obj\Debug\net7.0\dioExemplo.pdb
+D:\dev\csharp-training\c#-fundamentals\dioExemplo\obj\Debug\net7.0\dioExemplo.genruntimeconfig.cache
+D:\dev\csharp-training\c#-fundamentals\dioExemplo\obj\Debug\net7.0\ref\dioExemplo.dll
