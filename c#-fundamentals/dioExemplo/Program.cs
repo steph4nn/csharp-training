@@ -11,8 +11,8 @@ class Program
         for(int i = 0; i < arrayPotencia.Length; i++){
             arrayPotencia[i] = Math.Round(Math.Pow(num,i+1),2);
         }
-        for(int i = 0; i <arrayPotencia.Length; i++){
-            Console.WriteLine($"A potência de número {i+1} do número {num} é igual a {arrayPotencia[i]}");
+        foreach(double valor in arrayPotencia ){
+            Console.WriteLine($"{valor}");
         }
 
     }
