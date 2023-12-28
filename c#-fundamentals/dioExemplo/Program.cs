@@ -5,15 +5,14 @@ class Program
 {
     static void Main(string[] args)
     {
-
+        Console.WriteLine("Digite o número: ");
+        int.TryParse(Console.ReadLine(), out int num);
+        Console.WriteLine("--------PROCESSANDO OS DADOS-------------");
+        Thread.Sleep(2000);
         Calculadora calc = new Calculadora();
-        calc.Somar(7, 6);
-        calc.Subtrair(7, 6);
-        calc.Multiplicar(7, 6);
-        calc.Dividir(7, 6);
-        calc.Potencia(7, 6);
-        calc.Seno(90);
-        calc.Coseno(90);
-        calc.Tangente(90);
+        for (int i = 1; i <=10 ; i++){
+            calc.Multiplicar(num, i);
+            Thread.Sleep(500);
+        }
     }
 }
