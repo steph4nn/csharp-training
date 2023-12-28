@@ -12,7 +12,7 @@ namespace dioExemplo.Models
 
 
         public void Apresentar(){
-            Console.WriteLine($"Olá meu nome é {Nome} e tenho {Idade} anos");
+            Console.WriteLine($"O nome do cliente é {Nome} e tem {Idade} anos de idade");
         }
 
     }
