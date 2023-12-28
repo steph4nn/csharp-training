@@ -1,0 +1,14 @@
+D:\dev\csharp-training\exemploExplorando\bin\Debug\net7.0\exemploExplorando.exe
+D:\dev\csharp-training\exemploExplorando\bin\Debug\net7.0\exemploExplorando.deps.json
+D:\dev\csharp-training\exemploExplorando\bin\Debug\net7.0\exemploExplorando.runtimeconfig.json
+D:\dev\csharp-training\exemploExplorando\bin\Debug\net7.0\exemploExplorando.dll
+D:\dev\csharp-training\exemploExplorando\bin\Debug\net7.0\exemploExplorando.pdb
+D:\dev\csharp-training\exemploExplorando\obj\Debug\net7.0\exemploExplorando.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\csharp-training\exemploExplorando\obj\Debug\net7.0\exemploExplorando.AssemblyInfoInputs.cache
+D:\dev\csharp-training\exemploExplorando\obj\Debug\net7.0\exemploExplorando.AssemblyInfo.cs
+D:\dev\csharp-training\exemploExplorando\obj\Debug\net7.0\exemploExplorando.csproj.CoreCompileInputs.cache
+D:\dev\csharp-training\exemploExplorando\obj\Debug\net7.0\exemploExplorando.dll
+D:\dev\csharp-training\exemploExplorando\obj\Debug\net7.0\refint\exemploExplorando.dll
+D:\dev\csharp-training\exemploExplorando\obj\Debug\net7.0\exemploExplorando.pdb
+D:\dev\csharp-training\exemploExplorando\obj\Debug\net7.0\exemploExplorando.genruntimeconfig.cache
+D:\dev\csharp-training\exemploExplorando\obj\Debug\net7.0\ref\exemploExplorando.dll
