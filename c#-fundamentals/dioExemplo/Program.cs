@@ -1,18 +1,35 @@
-﻿using dioExemplo.Models;
+﻿
+using dioExemplo.Models;
 using System.Globalization;
-namespace dioExemplo;
+using System.IO; 
 
-class Program
+namespace dioExemplo
 {
-    static void Main(string[] args)
+    class Program
     {
-        string dataString = "07/06/02";
-        bool verificacaoData = DateTime.TryParseExact(dataString,"dd/MM/yy",CultureInfo.InvariantCulture,DateTimeStyles.None, out DateTime data);
+        static void Main(string[] args)
+        {
+            try{
+                string[] conteudoLinha = File.ReadAllLines(@"Arquivo/arq_Text.txt"); // Replace the incorrect escape character with @
 
-        if(verificacaoData){
-            Console.WriteLine(data);
+                foreach (string linha in conteudoLinha)
+                {
+                    Console.WriteLine(linha);
+                }
+            }
+            
+            catch(FileNotFoundException ex){
+                Console.WriteLine($"O arquivo não foi encontrada. {ex.Message}");
+            }
+            catch(DirectoryNotFoundException ex){
+                Console.WriteLine($"A pasta não foi encontrada. {ex.Message}");
+            }
+            catch(Exception ex){
+                Console.WriteLine($"Ocorreu uma exceção genérica. {ex.Message}");
+            }
+            finally {
+                Console.WriteLine("Passou por todas as exceções.");
+            }
         }
-
-
     }
 }
