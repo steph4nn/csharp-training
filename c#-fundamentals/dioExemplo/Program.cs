@@ -6,15 +6,13 @@ class Program
 {
     static void Main(string[] args)
     {
-        CultureInfo.DefaultThreadCurrentCulture = new CultureInfo("en-US");
+        decimal numeroTeste = .2795M;
 
+        Console.WriteLine(numeroTeste.ToString("P"));
+        Console.WriteLine(numeroTeste.ToString(".##-##"));
 
-        Console.WriteLine("Qual o seu salário? ");
-        decimal.TryParse(Console.ReadLine(), out decimal salario);
-        decimal valorMonetario = salario;
-        Console.WriteLine ($"Seu salário, em dolares, é de: {valorMonetario:C}");
-        Console.WriteLine($"Seu salário ,em Reais, é de: {valorMonetario.ToString("C", CultureInfo.CreateSpecificCulture("pt-BR"))}");
-        Console.WriteLine($"Seu salário ,em Yens, é de: {valorMonetario.ToString("C", CultureInfo.CreateSpecificCulture("ja-JP"))}");
+        DateTime data = DateTime.Now;
+        Console.WriteLine(data.ToString("yy-MM-dd"));
 
     }
 }
