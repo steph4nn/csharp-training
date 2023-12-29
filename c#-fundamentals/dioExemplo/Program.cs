@@ -6,13 +6,13 @@ class Program
 {
     static void Main(string[] args)
     {
-        decimal numeroTeste = .2795M;
+        string dataString = "07/06/02";
+        bool verificacaoData = DateTime.TryParseExact(dataString,"dd/MM/yy",CultureInfo.InvariantCulture,DateTimeStyles.None, out DateTime data);
 
-        Console.WriteLine(numeroTeste.ToString("P"));
-        Console.WriteLine(numeroTeste.ToString(".##-##"));
+        if(verificacaoData){
+            Console.WriteLine(data);
+        }
 
-        DateTime data = DateTime.Now;
-        Console.WriteLine(data.ToString("yy-MM-dd"));
 
     }
 }
