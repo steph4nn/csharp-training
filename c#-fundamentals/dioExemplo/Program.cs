@@ -9,36 +9,30 @@ namespace dioExemplo
     {
         static void Main(string[] args)
         {
-            Queue<int> fila = new Queue<int>();
+            Dictionary<int, string> dict = new Dictionary<int, string>
+            {
+                {1, "MENU"},
+                {2, "OPÇÕES"},
+                {3, "CARDÁPIO"}
+            };
+            dict.Add(4,"SAIR");
+            dict.Add(5,"TESTE");
+            dict.Remove(5);
+            dict[1] = "CONTATO";
 
-            fila.Enqueue(2);
-            fila.Enqueue(4);
-            fila.Enqueue(6);
-            fila.Enqueue(8);
-            fila.Dequeue();
-            fila.Enqueue(10);
-
-            Console.WriteLine("-------------------------------------");
-            Console.WriteLine("---------ELEMENTOS DA FILA-----------");
-            Console.WriteLine("-------------------------------------");
-            foreach (int num in fila){
-                Console.WriteLine(num);
+            foreach (var item in dict){
+                Console.WriteLine($"Chave: {item.Key} || Valor: {item.Value}");
             }
 
-            Stack<int> pilha = new Stack<int>();
-            pilha.Push(2);
-            pilha.Push(4);
-            pilha.Push(6);
-            pilha.Push(8);
-            pilha.Pop();
-            pilha.Push(10);
-
-            Console.WriteLine("-------------------------------------");
-            Console.WriteLine("---------ELEMENTOS DA PILHA-----------");
-            Console.WriteLine("-------------------------------------");
-            foreach (int num in pilha){
-                Console.WriteLine(num);
+            int teste = 1;
+            if (dict.ContainsKey(teste))
+            {
+                Console.WriteLine($"A chave {teste} já está cadastrada no sistema");
             }
+            else {
+                Console.WriteLine("A chave escolhida está disponivel");
+            }
+            
 
         }
     }
