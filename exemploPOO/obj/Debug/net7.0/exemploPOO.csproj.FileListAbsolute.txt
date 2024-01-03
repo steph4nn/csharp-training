@@ -1,0 +1,14 @@
+D:\dev\csharp-training\exemploPOO\bin\Debug\net7.0\exemploPOO.exe
+D:\dev\csharp-training\exemploPOO\bin\Debug\net7.0\exemploPOO.deps.json
+D:\dev\csharp-training\exemploPOO\bin\Debug\net7.0\exemploPOO.runtimeconfig.json
+D:\dev\csharp-training\exemploPOO\bin\Debug\net7.0\exemploPOO.dll
+D:\dev\csharp-training\exemploPOO\bin\Debug\net7.0\exemploPOO.pdb
+D:\dev\csharp-training\exemploPOO\obj\Debug\net7.0\exemploPOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\csharp-training\exemploPOO\obj\Debug\net7.0\exemploPOO.AssemblyInfoInputs.cache
+D:\dev\csharp-training\exemploPOO\obj\Debug\net7.0\exemploPOO.AssemblyInfo.cs
+D:\dev\csharp-training\exemploPOO\obj\Debug\net7.0\exemploPOO.csproj.CoreCompileInputs.cache
+D:\dev\csharp-training\exemploPOO\obj\Debug\net7.0\exemploPOO.dll
+D:\dev\csharp-training\exemploPOO\obj\Debug\net7.0\refint\exemploPOO.dll
+D:\dev\csharp-training\exemploPOO\obj\Debug\net7.0\exemploPOO.pdb
+D:\dev\csharp-training\exemploPOO\obj\Debug\net7.0\exemploPOO.genruntimeconfig.cache
+D:\dev\csharp-training\exemploPOO\obj\Debug\net7.0\ref\exemploPOO.dll
