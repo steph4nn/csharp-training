@@ -18,7 +18,7 @@ namespace exemploPOO.Models
             Idade = idade;
         }
 
-        public void Apresentar(){
+        public virtual void Apresentar(){
             Console.WriteLine($"Olá, meu nome é {Nome} e tenho {Idade} anos");
         }
     }
