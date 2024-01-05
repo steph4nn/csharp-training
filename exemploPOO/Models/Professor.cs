@@ -9,6 +9,11 @@ namespace exemploPOO.Models
     {
         public decimal Salario { get; set; }
 
+        public Professor(string nome, int idade) : base(nome,idade)
+        {
+            
+        }
+
         public override void Apresentar()
         {
             Console.WriteLine($"Olá meu nome é {Nome}, tenho {Idade} anos e meu salário é {Salario:C}");

@@ -9,6 +9,10 @@ namespace exemploPOO.Models
     {
         public float Nota { get; set; }
 
+        public Aluno(string nome, int idade) :base(nome, idade)
+        {
+            
+        }
         public override void Apresentar()
         {
             Console.WriteLine($"Olá, meu nome é {Nome}, tenho {Idade} anos, e sou nota {Nota}");

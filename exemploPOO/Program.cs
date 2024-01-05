@@ -5,8 +5,12 @@ class Program
 {
     static void Main(string[] args)
     {
-        Corrente c = new Corrente();
-        c.Creditar(500);
-        c.ExibirSaldo();
+        Aluno a1 = new Aluno("Lauro", 20);
+        Professor p1 = new Professor("Alex", 50);
+        Pessoa pe1 = new Pessoa("Marrie", 3);
+
+        a1.Apresentar();
+        p1.Apresentar();
+        pe1.Apresentar();
     }
 }
