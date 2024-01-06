@@ -1,0 +1,14 @@
+D:\dev\csharp-training\exemploTESTES\Calculadora\obj\Debug\net7.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\csharp-training\exemploTESTES\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfoInputs.cache
+D:\dev\csharp-training\exemploTESTES\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfo.cs
+D:\dev\csharp-training\exemploTESTES\Calculadora\obj\Debug\net7.0\Calculadora.csproj.CoreCompileInputs.cache
+D:\dev\csharp-training\exemploTESTES\Calculadora\bin\Debug\net7.0\Calculadora.exe
+D:\dev\csharp-training\exemploTESTES\Calculadora\bin\Debug\net7.0\Calculadora.deps.json
+D:\dev\csharp-training\exemploTESTES\Calculadora\bin\Debug\net7.0\Calculadora.runtimeconfig.json
+D:\dev\csharp-training\exemploTESTES\Calculadora\bin\Debug\net7.0\Calculadora.dll
+D:\dev\csharp-training\exemploTESTES\Calculadora\bin\Debug\net7.0\Calculadora.pdb
+D:\dev\csharp-training\exemploTESTES\Calculadora\obj\Debug\net7.0\Calculadora.dll
+D:\dev\csharp-training\exemploTESTES\Calculadora\obj\Debug\net7.0\refint\Calculadora.dll
+D:\dev\csharp-training\exemploTESTES\Calculadora\obj\Debug\net7.0\Calculadora.pdb
+D:\dev\csharp-training\exemploTESTES\Calculadora\obj\Debug\net7.0\Calculadora.genruntimeconfig.cache
+D:\dev\csharp-training\exemploTESTES\Calculadora\obj\Debug\net7.0\ref\Calculadora.dll
