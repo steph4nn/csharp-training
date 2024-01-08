@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Calculadora.Services;
+using Microsoft.VisualBasic;
 
 namespace CalculadoraTestes
 {
@@ -15,18 +16,17 @@ namespace CalculadoraTestes
             _validacoes = new ValidacoesStrings();  
         }
 
-        [Fact]
-        public void DeveContar3CaractEmOlarERetornar3()
+        [Theory]
+        [InlineData(new string[]{"Olá","Marrie","Lauro"},new int[]{3,6,5})]
+
+        public void DeveContarOsCaracteresERetornarValorCerto(string[] input, int[] valorEsperado)
         {
-            //ARRANGE
-            string texto = "Olá";
-
-            //Act
-            int resultado = _validacoes.ContarCaract(texto);
-
-            //ASSERT
-            Assert.Equal(3,resultado);
-
+            // ASSERT
+            for (int i = 0; i < input.Length; i++)
+            {
+                int resultado = _validacoes.ContarCaract(input[i]);
+                Assert.Equal(valorEsperado[i], resultado);
+            }
         }
     }
 }
